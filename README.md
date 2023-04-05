@@ -95,7 +95,19 @@ hobbies: ["Coding", "Debuging", "Solve Complex Problems", "Comedy"]
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
 </p>
 
+---
+<h2 align="center"><i>Let's Connect</i></h2>
+<p align="center" >
+<!--    <a href="https://twitter.com/geekyshow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyshow1" height="30" width="40" /></a> -->
+  <a href="https://in.linkedin.com/in/extech-digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Extech-Digital" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/extechdigital/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="extech digital" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/extechdigital/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="extech-digital" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/user/GeekyShow1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekyshow1" height="30" width="40" /></a>
+  <a href="https://extechdigital.in/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-vol-3/24/_wordpress-512.png" alt="extechdigital" height="30" width="30" /></a>
+  <a href="https://www.therajeshkumar.com" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-2068/64/_p-512.png" alt="portfolio" height="30" width="30" /></a>
+</p>
 
+---
 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
