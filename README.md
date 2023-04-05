@@ -9,35 +9,37 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
+name: Kuldeep Sharma
+located_in: Mohali, Chandigarh
 current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Master of Computer Applications (MCA) and Computer Engineering",
+    "Bachelor of Computer Applications",
   ]
-company: Soulber
+company: Extech Digital
 fields_of_interests:
   [
     "Web Development",
+    "Mobile App Development",
+    "Andriod/ISO Application Development",
     "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Digital Marketing",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - Mobile App Development",
+    "Teaching - Python, React Native",
+    "StartUp - Extech Digital"
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Docker, and React Native"]
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Coding", "Debuging", "Solve Complex Problems", "Comedy"]
 ```
   
