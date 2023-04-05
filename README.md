@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="![image](https://user-images.githubusercontent.com/122008130/229988943-ee982f22-cf1c-49c4-bed4-8f245b4b8ff3.png)" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/122008130/229989052-2bc099a8-d93b-4142-a837-5eb16f2f1448.png" alt="my banner"></a>
+
 </p>
 
 <h3 align="center">
